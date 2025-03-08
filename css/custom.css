@@ -554,7 +554,7 @@ select {
 }
 
 .after_banner .call_us .azcol-a {
-    font-size: 40px;
+    font-size: 30px;
     font-family: var(--raleway-font);
     font-weight: 900;
     background: -webkit-linear-gradient(#C34428, #F1CD33);
@@ -1858,9 +1858,6 @@ section.reqoute-qoute-sec-pag.contact-page .qoute-frm-wrappr button {
         text-align: center;
         margin-bottom: 30px;
     }
-    .menuSec {
-        padding: 40px 0px 40px;
-    }
     .banner .banner_info h1 {
         font-size: 35px;
     }
@@ -2085,9 +2082,6 @@ section.reqoute-qoute-sec-pag.contact-page .qoute-frm-wrappr button {
     .header-logo {
         text-align: center;
         margin-bottom: 30px;
-    }
-    .menuSec {
-        padding: 40px 0px 40px;
     }
     .banner .banner_info h1 {
         font-size: 35px;

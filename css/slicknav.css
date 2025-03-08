@@ -1,8 +1,10 @@
-/*!
+/* !
  * SlickNav Responsive Mobile Menu v1.0.10
  * (c) 2016 Josh Cope
  * licensed under MIT
  */
+
+/*  
 .slicknav_btn {
   position: relative;
   display: block;
@@ -145,4 +147,4 @@
   @media only screen and (min-width: 300px) and (max-width: 767px)
   {
   .slicknav_menu {display:block;}
-  }
+  } */
